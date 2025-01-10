@@ -58,7 +58,7 @@ Contributions are welcome! Please fork this repository and submit a pull request
 
 For any questions or suggestions, feel free to reach out:
 - **Email**: ajaydaniel685@gmailcom
-- **GitHub**: [your-username](https://github.com/AjayDanielB)
+- **GitHub**:(https://github.com/AjayDanielB)
 
 ---
 

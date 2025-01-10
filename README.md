@@ -13,14 +13,15 @@ Welcome to the **Coffee Website** repository! This project showcases a beautiful
 ## 🚀 Demo
 
 You can view the live version of the website here:
-http://127.0.0.1:5500/index.html[](#) 
+[![Uploading Screenshot_10-1-2025_131224_127.0.0.1.jpeg…]()
+](#) 
 
 ## 🛠️ Technologies Used
 
 - **HTML5**: Markup language for structuring content.
 - **CSS3**: Styling and layout.
 - **JavaScript**: Interactive elements and dynamic behavior.
--  This Froned Project 
+-  This Fronend Project 
 
 ## 📂 Project Structure
 

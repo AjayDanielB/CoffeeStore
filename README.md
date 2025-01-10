@@ -20,7 +20,7 @@ You can view the live version of the website here:
 - **HTML5**: Markup language for structuring content.
 - **CSS3**: Styling and layout.
 - **JavaScript**: Interactive elements and dynamic behavior.
-- **Frameworks/Libraries**: *(Optional: mention any specific libraries or frameworks used, e.g., Bootstrap, React)*.
+-  This Froned Project 
 
 ## 📂 Project Structure
 

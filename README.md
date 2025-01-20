@@ -13,8 +13,7 @@ Welcome to the **Coffee Website** repository! This project showcases a beautiful
 ## 🚀 Demo
 
 You can view the live version of the website here:
-[![Uploading Screenshot_10-1-2025_131224_127.0.0.1.jpeg…]()
-](#) 
+
 
 ## 🛠️ Technologies Used
 
@@ -29,7 +28,6 @@ You can view the live version of the website here:
 ├── index.html       # Main HTML file
 ├── /css             # Stylesheets
 ├── /js              # JavaScript files
-├── /images          # Images used in the website
 └── README.md        # Project documentation
 ```
 
